@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Telovendo</string>
+    <string name="description">Description</string>
+    <string name="product_detail">Product details</string>
+    <string name="product_name">Product name</string>
+    <string name="product_category">Product category</string>
+    <string name="product_price">Product price</string>
+    <string name="favourite">available</string>
+    <string name="favourite_btn">Available</string>
+    <string name="see_details_btn">Details</string>
+    <string name="field_id">ID:</string>
+    <string name="field_product">Product:</string>
+    <string name="field_category">Category:</string>
+</resources>
